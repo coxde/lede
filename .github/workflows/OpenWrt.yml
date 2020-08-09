@@ -167,6 +167,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-nlbwmon=y
           CONFIG_PACKAGE_luci-app-advancedsetting=y
           CONFIG_PACKAGE_luci-app-advanced-reboot=y
+          CONFIG_PACKAGE_luci-app-passwall=y
           EOF
 
           # LuCI主题:
